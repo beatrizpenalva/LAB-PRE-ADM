@@ -1,0 +1,36 @@
+.resultadoCorreto{
+        color: rgb(94, 156, 58);
+        font: normal 14pt tahoma;
+        justify-content: center;
+        float: left;
+        border: solid;
+        border-color: grey;
+        border-radius: 10px;
+        margin: 50px;
+        text-align: center;
+        padding: 25px;
+}
+
+.resultadoErrado{
+    color: red;
+    font: normal 14pt tahoma;
+    justify-content: center;
+    display: block;
+    float: right;
+    border: solid;
+    border-color: grey;
+    border-radius: 10px;
+    margin: 50px;
+    text-align: center;
+    padding: 25px;
+}
+
+footer{background-color: rgb(38, 0, 170);
+        color: white;
+        font: normal 14pt tahoma;
+        text-align: center;
+        padding: 25px;
+        border-radius: 10px;
+        float:bottom;
+        position: absolute;
+}
